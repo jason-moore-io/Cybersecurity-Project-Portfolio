@@ -8,6 +8,10 @@ I'm passionate about cybersecurity and love tackling complex challenges through 
 Programmatic Vulnerability Remediations (PowerShell, BASH, & Shell Commands)
 
 - **[STIG Remediation: WN11-CC-000005](https://github.com/jason-moore-io/STIG-Remediation-WN11-CC-000005)**
+- **[STIG Remediation: WN11-CC-000010](https://github.com/jason-moore-io/STIG-Remediation-WN11-CC-000010)**
+- **[STIG Remediation: WN11-CC-000020](https://github.com/jason-moore-io/STIG-Remediation-WN11-CC-000020)**
+- **[STIG Remediation: WN11-CC-000025](https://github.com/jason-moore-io/STIG-Remediation-WN11-CC-000025)**
+- **[STIG Remediation: WN11-CC-000005](https://github.com/jason-moore-io/STIG-Remediation-WN11-CC-000030)**
 
 ## 🚨 Threat Hunting and Security Operations
 
