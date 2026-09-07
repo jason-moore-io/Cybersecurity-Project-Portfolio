@@ -16,7 +16,7 @@ Programmatic Vulnerability Remediations (PowerShell, BASH, & Shell Commands)
 ## 🚨 Threat Hunting and Security Operations
 
 - **[Threat Hunting Scenario (Credential Exposure Follow-Up)](https://github.com/jason-moore-io/Threat-Hunt---Nimbus-Health-Credential-Exposure-Follow-Up)**
-- **[Threat Hunting Scenario (Post-Intrusion Investigation)](https://github.com/jason-moore-io/Threat-Hunt-Northpeak-Logistics-Post-Intrusion-Investigation))**)**
+- **[Threat Hunting Scenario (Post-Intrusion Investigation)](https://github.com/jason-moore-io/Threat-Hunt-Northpeak-Logistics-Post-Intrusion-Investigation)**
 
 <hr/>
 
