@@ -20,6 +20,9 @@ Programmatic Vulnerability Remediations (PowerShell, BASH, & Shell Commands)
 - **[Threat Hunting Report (TideGlass)](https://github.com/jason-moore-io/Threat-Hunt-Report---TideGlass)**
 - **[Threat Hunting Report (Meridian)](https://github.com/jason-moore-io/Threat-Hunt-Report---Meridian)**
 
+## 🖥️ Infrastructure
+
+- **[Small Business Security Infrastructure (Waystone Security Partners)]
 <hr/>
 
 ## 🤳 Connect With Me
