@@ -22,7 +22,7 @@ Programmatic Vulnerability Remediations (PowerShell, BASH, & Shell Commands)
 
 ## 🖥️ Infrastructure
 
-- **[Small Business Security Infrastructure (Waystone Security Partners)]
+- **[Small Business Security Infrastructure (Waystone Security Partners)](https://github.com/jason-moore-io/Small-Business-Security-infrastructure---Waystone-Security-Partners)
 <hr/>
 
 ## 🤳 Connect With Me
