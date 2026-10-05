@@ -13,7 +13,7 @@ Programmatic Vulnerability Remediations (PowerShell, BASH, & Shell Commands)
 - **[STIG Remediation: WN11-CC-000025](https://github.com/jason-moore-io/STIG-Remediation-WN11-CC-000025)**
 - **[STIG Remediation: WN11-CC-000030](https://github.com/jason-moore-io/STIG-Remediation-WN11-CC-000030)**
 - **[Small Business Security Infrastructure (Waystone Security Partners)](https://github.com/jason-moore-io/Small-Business-Security-infrastructure---Waystone-Security-Partners)**
-- **[Voice-Only Omarchy Linux A.I. Workstation — (Setup & Use Report) 🚧 In progress](https://github.com/jason-moore-io/Voice-Only-Omarchy-Linux-A.I.-Workstation (Setup-Use-Report))**
+- **[🚧 In progress Voice-Only Omarchy Linux A.I. Workstation — (Setup & Use Report)](https://github.com/jason-moore-io/Voice-Only-Omarchy-Linux-A.I.-Workstation (Setup-Use-Report))**
   
 ## 🚨 Threat Hunting and Security Operations
 
@@ -24,7 +24,7 @@ Programmatic Vulnerability Remediations (PowerShell, BASH, & Shell Commands)
 - **[Splunk Infrastructure SIEM Deployment](https://github.com/jason-moore-io/Splunk-Infrastructure-SIEM-Deployment)**
 - **[Threat Hunting Report (Harborlight)](https://github.com/jason-moore-io/Threat-Hunting-Report---Harborlight)**
 - **[Threat Hunting Report (Operation ECHOLEAK)](https://github.com/jason-moore-io/Threat-Hunting-Report---Operation-ECHOLEAK)**
-- **[Threat Hunting Report (Operation QUARTZFANG](https://github.com/jason-moore-io/Threat-Hunt-Report---Operation-QUARTZFANG)**
+- **[Threat Hunting Report (Operation QUARTZFANG)(https://github.com/jason-moore-io/Threat-Hunt-Report---Operation-QUARTZFANG)**
 
 <hr/>
 
