@@ -12,7 +12,7 @@ Programmatic Vulnerability Remediations (PowerShell, BASH, & Shell Commands)
 - **[STIG Remediation: WN11-CC-000020](https://github.com/jason-moore-io/STIG-Remediation-WN11-CC-000020)**
 - **[STIG Remediation: WN11-CC-000025](https://github.com/jason-moore-io/STIG-Remediation-WN11-CC-000025)**
 - **[STIG Remediation: WN11-CC-000030](https://github.com/jason-moore-io/STIG-Remediation-WN11-CC-000030)**
-- **[Small Business Security Infrastructure (Waystone Security Partners)](https://github.com/jason-moore-io/Small-Business-Security-infrastructure---Waystone-Security-Partners)**
+- **[(🚧 In progress) Small Business Security Infrastructure (Waystone Security Partners)](https://github.com/jason-moore-io/Small-Business-Security-infrastructure---Waystone-Security-Partners)**
 - **[(🚧 In progress) Voice-Only Omarchy Linux A.I. Workstation — (Setup & Use Report)](https://github.com/jason-moore-io/Voice-Only-Omarchy-Linux-A.I.-Workstation (Setup-Use-Report))**
   
 ## 🚨 Threat Hunting and Security Operations
@@ -21,7 +21,7 @@ Programmatic Vulnerability Remediations (PowerShell, BASH, & Shell Commands)
 - **[Threat Hunting Report (Post-Intrusion Investigation)](https://github.com/jason-moore-io/Threat-Hunt-Northpeak-Logistics-Post-Intrusion-Investigation)**
 - **[Threat Hunting Report (TideGlass)](https://github.com/jason-moore-io/Threat-Hunt-Report---TideGlass)**
 - **[Threat Hunting Report (Meridian)](https://github.com/jason-moore-io/Threat-Hunt-Report---Meridian)**
-- **[Splunk Infrastructure SIEM Deployment](https://github.com/jason-moore-io/Splunk-Infrastructure-SIEM-Deployment)**
+- **[(🚧 In progress) Splunk Infrastructure SIEM Deployment](https://github.com/jason-moore-io/Splunk-Infrastructure-SIEM-Deployment)**
 - **[Threat Hunting Report (Harborlight)](https://github.com/jason-moore-io/Threat-Hunting-Report---Harborlight)**
 - **[Threat Hunting Report (Operation ECHOLEAK)](https://github.com/jason-moore-io/Threat-Hunting-Report---Operation-ECHOLEAK)**
 - **[Threat Hunting Report (Operation QUARTZFANG)](https://github.com/jason-moore-io/Threat-Hunt-Report---Operation-QUARTZFANG)**
