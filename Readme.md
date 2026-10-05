@@ -24,7 +24,7 @@ Programmatic Vulnerability Remediations (PowerShell, BASH, & Shell Commands)
 - **[Splunk Infrastructure SIEM Deployment](https://github.com/jason-moore-io/Splunk-Infrastructure-SIEM-Deployment)**
 - **[Threat Hunting Report (Harborlight)](https://github.com/jason-moore-io/Threat-Hunting-Report---Harborlight)**
 - **[Threat Hunting Report (Operation ECHOLEAK)](https://github.com/jason-moore-io/Threat-Hunting-Report---Operation-ECHOLEAK)**
-- **[Threat Hunting Report (Operation QUARTZFANG)(https://github.com/jason-moore-io/Threat-Hunt-Report---Operation-QUARTZFANG)**
+- **[Threat Hunting Report (Operation QUARTZFANG)](https://github.com/jason-moore-io/Threat-Hunt-Report---Operation-QUARTZFANG)**
 
 <hr/>
 
