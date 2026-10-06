@@ -21,10 +21,10 @@ Programmatic Vulnerability Remediations (PowerShell, BASH, & Shell Commands)
 - **[Threat Hunting Report (Post-Intrusion Investigation)](https://github.com/jason-moore-io/Threat-Hunt-Northpeak-Logistics-Post-Intrusion-Investigation)**
 - **[Threat Hunting Report (TideGlass)](https://github.com/jason-moore-io/Threat-Hunt-Report---TideGlass)**
 - **[Threat Hunting Report (Meridian)](https://github.com/jason-moore-io/Threat-Hunt-Report---Meridian)**
-- **[(🚧 In progress) Splunk Infrastructure SIEM Deployment](https://github.com/jason-moore-io/Splunk-Infrastructure-SIEM-Deployment)**
 - **[Threat Hunting Report (Harborlight)](https://github.com/jason-moore-io/Threat-Hunting-Report---Harborlight)**
 - **[Threat Hunting Report (Operation ECHOLEAK)](https://github.com/jason-moore-io/Threat-Hunting-Report---Operation-ECHOLEAK)**
 - **[Threat Hunting Report (Operation QUARTZFANG)](https://github.com/jason-moore-io/Threat-Hunt-Report---Operation-QUARTZFANG)**
+- **[(🚧 In progress) Splunk Infrastructure SIEM Deployment](https://github.com/jason-moore-io/Splunk-Infrastructure-SIEM-Deployment)**
 
 <hr/>
 
