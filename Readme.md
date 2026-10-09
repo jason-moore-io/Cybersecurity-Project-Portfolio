@@ -14,6 +14,7 @@ Programmatic Vulnerability Remediations (PowerShell, BASH, & Shell Commands)
 - **[STIG Remediation: WN11-CC-000030](https://github.com/jason-moore-io/STIG-Remediation-WN11-CC-000030)**
 - **[(🚧 In progress) Small Business Security Infrastructure (Waystone Security Partners)](https://github.com/jason-moore-io/Small-Business-Security-infrastructure---Waystone-Security-Partners)**
 - **[(🚧 In progress) Voice-Only Omarchy Linux A.I. Workstation — (Setup & Use Report)](https://github.com/jason-moore-io/Voice-Only-Omarchy-Linux-A.I.-Workstation (Setup-Use-Report))**
+- [(🚧 In progress) Kubernetes Security Project](https://github.com/jason-moore-io/Kubernetes-Security-Project)
   
 ## 🚨 Threat Hunting and Security Operations
 
