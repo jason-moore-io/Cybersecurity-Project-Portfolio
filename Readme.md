@@ -16,6 +16,7 @@ Programmatic Vulnerability Remediations (PowerShell, BASH, & Shell Commands)
 - **[(🚧 In progress) Voice-Only Omarchy Linux A.I. Workstation — (Setup & Use Report)](https://github.com/jason-moore-io/Voice-Only-Omarchy-Linux-A.I.-Workstation-Setup-Use-Report-In-progress)**
 - **[(🚧 In progress) Kubernetes Cloud Security Tools Agent Project](https://github.com/jason-moore-io/Kubernetes-Security-Project)**
 - **[(🚧 In progress) Securing an Autonomous Hermes Agent on DigitalOcean](https://github.com/jason-moore-io/Securing-an-Autonomous-A.I.-Agent-Hermes-on-DigitalOcean/tree/main)**
+- **[(🚧 In progress) Identity-to-Endpoint Kill Chain Lab](https://github.com/jason-moore-io/Identity-to-Endpoint-Kill-Chain-Lab/blob/main/README.md)**
 
   
 ## 🚨 Threat Hunting and Security Operations
