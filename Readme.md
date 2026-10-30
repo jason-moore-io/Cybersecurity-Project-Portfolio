@@ -34,7 +34,9 @@ Programmatic Vulnerability Remediations (PowerShell, BASH, & Shell Commands)
 
 ## 🤳 Connect With Me
 
+## 🤳 Connect With Me
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge)](https://www.linkedin.com/in/jasonmoore-infosec/)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge)](https://github.com/jasonmoore-io)
+[![X](https://img.shields.io/badge/X_(Twitter)-000000?style=for-the-badge)](https://x.com/YOUR_HANDLE)
 [![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge)](https://www.youtube.com/c/YOUR_CHANNEL)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge)](https://www.instagram.com/YOUR_HANDLE)
